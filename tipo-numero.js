@@ -6,4 +6,7 @@ const soma = nome / num2;
 
 console.log(soma); 
 
-quebra
+
+nome + num2 = num3
+
+console.log(num3);
