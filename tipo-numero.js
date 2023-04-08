@@ -5,3 +5,5 @@ var num2 = 0;
 const soma = nome / num2;
 
 console.log(soma); 
+
+quebra
